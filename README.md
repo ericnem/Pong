@@ -1,3 +1,3 @@
 # Pong
 Classic Pong game with single and multi-player. Responsive AI and slow-motion animation.
-![Image](https://user-images.githubusercontent.com/104458293/212200608-82ea339e-9c32-4922-94c1-5e35e2249e54.png)
+![Image](https://user-images.githubusercontent.com/104458293/212200803-0d4bd5fa-4c7a-4c47-a1e1-43dcd1f737cf.png)
